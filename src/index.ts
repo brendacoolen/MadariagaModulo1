@@ -8,3 +8,4 @@ console.log("desodorante Axe", "180 unidades");
 console.log("miel La Reina", "220 unidades");
 console.log("arroz Gallo", "300 unidades");
 console.log("lentejas Abadia", "140 unidades");
+console.log("primer cambio");
